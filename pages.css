@@ -223,3 +223,20 @@ transform: scale(1.02);
   width: 100px;
   height: 100px;
 }
+
+/* Media Queries */
+@media (max-width: 900px) {
+  h1{
+    padding-right: 0vw;
+    font-size: 9vw;
+    text-align: center;
+    margin-left: -6vw;
+  }
+  button{
+      width: 30vw;
+      height: 9vw;
+      font-size: 4vw;
+      margin-left: 25vw;
+      margin-top: ;
+  }
+}
