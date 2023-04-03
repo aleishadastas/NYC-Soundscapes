@@ -202,7 +202,6 @@ transform: scale(1.02);
     margin-left: 8vw;
 }
 
-
 .outlineTwo{
     position: absolute;
     border: 2px solid white;
@@ -212,17 +211,6 @@ transform: scale(1.02);
     margin-top: 47vw;
     margin-left: 8vw;
 } */
-
-/* Spectra Magnifier Glass */
-.img-magnifier-glass {
-  position: absolute;
-  border: 2px solid white;
-  border-radius: 50%;
-  cursor: none;
-  /*Set the size of the magnifier glass:*/
-  width: 100px;
-  height: 100px;
-}
 
 /* Media Queries */
 @media (max-width: 900px) {
@@ -239,4 +227,36 @@ transform: scale(1.02);
       margin-left: 25vw;
       margin-top: ;
   }
+}
+
+@media (max-width: 900px) {
+  button{
+      width: 30vw;
+      height: 8vw;
+      font-size: 3vw;
+      margin-top: 10vw;
+  }
+  h1{
+   margin-top: 5vw;
+   font-size: 5vw;
+  }
+  div{
+    font-size: 2vw;
+    line-height: 3vw;
+  }
+  .label{
+    font-size: 3vw;
+  }
+  #imageOne{
+   margin-top: -43vw;
+  }
+  audio{
+    margin-top: -59.5vw;
+  }
+  #spectraLabel{
+    font-size: 3vw;
+  }
+  #spectra{
+    margin-top: -14vw;
+}
 }

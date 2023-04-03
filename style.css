@@ -435,7 +435,7 @@ font-size: 2vw;
 
 /* Media Queries */
 
- @media (max-width: 900px) {
+@media (max-width: 900px) {
   #intro{
       margin-top: 10vw;
   }
@@ -481,7 +481,195 @@ font-size: 2vw;
       margin-left: 37vw;
     }
     #circleThree{
+      margin-top: -99vw;
+      margin-left: 30vw;
+    }
+    #circleFour{
+      margin-top: -95vw;
+      margin-left: 29vw;
+    }
+    #circleFive{
+      margin-top: -93vw;
+      margin-left: 43vw;
+    }
+    #circleSix{
+      margin-top: -74vw;
+      margin-left: 37vw;
+    }
+    #circleSeven{
+      margin-top: -64vw;
+      margin-left: 27vw;
+    }
+    #circleEight{
+      margin-top: -59vw;
+      margin-left: 23vw;
+    }
+    #circleNine{
+      margin-top: -54vw;
+      margin-left: 30vw;
+    }
+    #circleTen{
+      margin-top: -48vw;
+      margin-left: 37vw;
+    }
+    #circleEleven{
+      margin-top: -42vw;
+      margin-left: 36vw;
+    }
+    #circleTwelve{
+      margin-top: -39vw;
+      margin-left: 30vw;
+    }
+    #circleThirteen{
+      margin-top: -37vw;
+      margin-left: 29vw;
+    }
+    #circleFourteen{
+      margin-top: -37vw;
+      margin-left: 31.5vw;
+    }
+    #circleFifteen{
+      margin-top: -68vw;
+      margin-left: 42.5vw;
+    }
+    #circleSixteen{
+      margin-top: -75vw;
+      margin-left: 48vw;
+    }
+    #circleSeventeen{
+      margin-top: -77vw;
+      margin-left: 58vw;
+    }
+    #circleEighteen{
+      margin-top: -75vw;
+      margin-left: 69vw;
+    }
+    #circleNineteen{
+      margin-top: -45vw;
+      margin-left: 92vw;
+    }
+    #circleTwenty{
+      margin-top: -59vw;
+      margin-left: 53vw;
+    }
+    #circleTwentyOne{
+      margin-top: -48vw;
+      margin-left: 48vw;
+    }
+    #circleTwentyTwo{
+      margin-top: -47vw;
+      margin-left: 58vw;
+    }
+    #circleTwentyThree{
+      margin-top: -49vw;
+      margin-left: 61vw;
+    }
+    #circleTwentyFour{
+      margin-top: -26vw;
+      margin-left: 71vw;
+    }
+    #circleTwentyFive{
+      margin-top: -39vw;
+      margin-left: 51.5vw;
+    }
+    #circleOne:hover{
+      margin-top: -108vw;
+      margin-left: 44vw;
+    }
+    #circleTwo:hover{
       margin-top: -104vw;
       margin-left: 37vw;
+    }
+    #circleThree:hover{
+      margin-top: -99vw;
+      margin-left: 30vw;
+    }
+    #circleFour:hover{
+      margin-top: -95vw;
+      margin-left: 29vw;
+    }
+    #circleFive:hover{
+      margin-top: -93vw;
+      margin-left: 43vw;
+    }
+    #circleSix:hover{
+      margin-top: -74vw;
+      margin-left: 37vw;
+    }
+    #circleSeven:hover{
+      margin-top: -64vw;
+      margin-left: 27vw;
+    }
+    #circleEight:hover{
+      margin-top: -59vw;
+      margin-left: 23vw;
+    }
+    #circleNine:hover{
+      margin-top: -54vw;
+      margin-left: 30vw;
+    }
+    #circleTen:hover{
+      margin-top: -48vw;
+      margin-left: 37vw;
+    }
+    #circleEleven:hover{
+      margin-top: -42vw;
+      margin-left: 36vw;
+    }
+    #circleTwelve:hover{
+      margin-top: -39vw;
+      margin-left: 30vw;
+    }
+    #circleThirteen:hover{
+      margin-top: -37vw;
+      margin-left: 29vw;
+    }
+    #circleFourteen:hover{
+      margin-top: -37vw;
+      margin-left: 31.5vw;
+    }
+    #circleFifteen:hover{
+      margin-top: -68vw;
+      margin-left: 42.5vw;
+    }
+    #circleSixteen:hover{
+      margin-top: -75vw;
+      margin-left: 48vw;
+    }
+    #circleSeventeen:hover{
+      margin-top: -77vw;
+      margin-left: 58vw;
+    }
+    #circleEighteen{
+      margin-top: -75vw;
+      margin-left: 69vw;
+    }
+    #circleNineteen:hover{
+      margin-top: -45vw;
+      margin-left: 92vw;
+    }
+    #circleTwenty:hover{
+      margin-top: -59vw;
+      margin-left: 53vw;
+    }
+    #circleTwentyOne:hover{
+      margin-top: -48vw;
+      margin-left: 48vw;
+    }
+    #circleTwentyTwo:hover{
+      margin-top: -47vw;
+      margin-left: 58vw;
+    }
+    #circleTwentyThree:hover{
+      margin-top: -49vw;
+      margin-left: 61vw;
+    }
+    #circleTwentyFour:hover{
+      margin-top: -26vw;
+      margin-left: 71vw;
+    }
+    #circleTwentyFive:hover{
+      margin-top: -39vw;
+      margin-left: 51.5vw;
     }
 }
